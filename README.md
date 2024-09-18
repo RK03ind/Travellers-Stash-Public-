@@ -1,4 +1,4 @@
-# Travellers-Stash (Mern Stack Social Media App)
+# Travellers-Stash (A hub for all backpackers)
 
 This is the public repo of the final version of the social media app I made with MERN stack 
 
